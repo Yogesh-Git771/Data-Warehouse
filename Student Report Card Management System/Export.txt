@@ -1,0 +1,4 @@
+Roll      Name                ID          Prog    Arch    Write   Alg     Sum     Avg     Grade
+================================================================================
+843        Yogesh panigrahi   GUE/20246   85      95      55      65      300     75      C
+844       Manisha Panigrahi   GUE/20224   85      84      83      82      334     83.5    B
